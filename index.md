@@ -20,7 +20,7 @@ Full Stack Developer
 
 ## Currently
 
-Software developer with 10+ year experience:
+Software developer with 10+ years experience:
 - Designing and implementing solutions for each layer involved by a modern web application
 - Support public and private clients implementing the features they require
 - Strong focus on code quality and reusability
@@ -84,7 +84,7 @@ __Other__
 
 ## Soft skills
 
-Working in group and willingness to help colleagues. Strong focus on knowledge transfer and information sharing. 
+Working in group and willingness to help colleagues, strong focus on knowledge transfer and information sharing. 
 Autonomy in solving complex problems.
 
 ## Technical skills
@@ -100,7 +100,7 @@ Autonomy in solving complex problems.
 - Jenkins
 - Bash (ssh, scripting, awk)
 - SQL (Oracle and MySql)
-- C,C++ (used at university)
+- C, C++ (used at university)
 
 Not proficient but aware of Mongo Db, Orient Db, Redis, Rust, Haskell.
 
@@ -117,3 +117,5 @@ songwriters, rock and progressive rock, but also jazz and bossa nova.
 - Curious about world places, culture, food and nature
 <!-- ### Footer
 Last updated: December 2022 -->
+
+
