@@ -111,8 +111,8 @@ Not proficient but aware of Mongo Db, Orient Db, Redis, Rust, Haskell.
 
 ## Personal interests
 - Music, mainly from the sixties and the seventies, from both Italian and international scene: 
-songwriters, rock and progressive rock, but also jazz and bossa nova.
-- Singing, guitar, ukulele, harp playing and songwriting (my own songs of course).
+songwriters, rock and progressive rock, but also jazz and bossa nova
+- Singing, guitar, ukulele, harp playing and songwriting (my own songs of course)
 - Fond of geography, natural sciences, maths, physics... great Wikipedia reader
 - Curious about world places, culture, food and nature
 <!-- ### Footer
