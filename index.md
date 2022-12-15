@@ -68,13 +68,15 @@ Full stack developer, devops, mainly for Italian public administration/governanc
 - `2016 - 2020` _Sogei_: Governance web applications for the  ministry of economics, using J2EE, jQuery or Angular js
 - `2014 - 2016` _Agea_: handling of the European funds for agriculture, using J2EE 
 - `2013 - 2014` _Almawave_: Ontologies and semantic CRMs for Italian phone providers, using  Java and jQuery
-- `2011 - 2018` ITIL, ITSQB, Agile Scrum Master, Java SE6 certifications
+- `2011 - 2018` Courses and certifications
+  - Internal courses on Java 6 and 8, Spring, Android, Kotlin, Angular 2 and 8
+  - ITIL, ITSQB, Agile Scrum Master, Java SE6 certifications
 
 `2009 - 2011`
-__Previous__
-- `2010` 
+__Other__
+- `2010` _Confindustria Umbria_
   - Course on electronic technologies at _«Il Pischiello»_, Passignano sul Trasimento PG.
-  - Internship Sistematica, Terni TR, promoted by Confindustria Umbria: integration of open source video surveillance software on a web platform
+  - Internship at Sistematica, Terni TR: integration of open source video surveillance software on a web platform
 - `2009` 
   - Assisting a blind electronic engineering student with his thesis on implementing a power quality monitoring alghoritm on a DSP: use of oscilloscope and spectrum analyzer
   - Math courses for a local school in 2009  
@@ -85,7 +87,7 @@ __Previous__
 Working in group and willingness to help colleagues. Strong focus on knowledge transfer and information sharing. 
 Autonomy in solving complex problems.
 
-### Technical skills
+## Technical skills
 
 - Linux (Installation, command line, use as personal OS)
 - Git (From bash, Github, Gitlab, Azure devops, merge/pull request)
@@ -102,12 +104,12 @@ Autonomy in solving complex problems.
 
 Not proficient but aware of Mongo Db, Orient Db, Redis, Rust, Haskell.
 
-### Languages
+## Languages
 
 - Mother tongue: Italian
 - Fluent: English, French
 
-### Personal interests
+## Personal interests
 - Music, mainly from the sixties and the seventies, from both Italian and international scene: 
 songwriters, rock and progressive rock, but also jazz and bossa nova.
 - Singing, guitar, ukulele, harp playing and songwriting (my own songs of course).
@@ -115,5 +117,3 @@ songwriters, rock and progressive rock, but also jazz and bossa nova.
 - Curious about world places, culture, food and nature
 <!-- ### Footer
 Last updated: December 2022 -->
-
-
