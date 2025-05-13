@@ -1,6 +1,6 @@
 # Tito Zoe Chiacchiera
 
-Full Stack Developer
+Node.js and MongoDB Developer
 
 <div id="webaddress">
 <a href="mailto:titozoe@gmail.com">
@@ -20,22 +20,27 @@ Full Stack Developer
 
 ## Currently
 
-Software developer with 10+ years experience:
-- Designing and implementing solutions for each layer involved by a modern web application
-- Support public and private clients implementing the features they require
-- Strong focus on code quality and reusability
-- Up to date with the lastest programming trends and techniques 
-- Curious and always looking for improvement.
-- Willing to help teammates on the most difficult tasks: being useful is a great source of satisfaction
-- Big fan of pair programming because it enables fast knowledge transfer and helps to build better solutions
+Software developer with 15 years experience:
+
+Experienced in designing and implementing robust ETL solutions, with a strong focus on code quality, maintainability, and reusability. I support both public and private sector clients by delivering the features they need reliably and efficiently.
+
+Passionate about continuous learning and always looking for ways to improve both personally and within the team. I enjoy tackling challenging tasks and find great satisfaction in being helpful, especially when supporting teammates on complex problems.
+
+A strong advocate of pair programming, which I believe fosters fast knowledge sharing and leads to more effective, higher-quality solutions.
+
+While I recognize the potential of AI tools, I see them as complementary; I prefer not to rely on them as a crutch to deliver quality work.
 
 ### Specialized in
 
-Linux, Python, Javascript, Java (Spring Boot), REST, Bash
+- Mongo DB and & Aggregation Framework
+- Javascript in Node.js environmnent
+- Linux, Bash and command line tools 
+- Python
+- Java (Spring Boot)
 
-### Job related interests
+### Technical interests
 
-Machine and deep learning, data science, microservices, containers, functional programming, open source software, open street map
+Machine and deep learning, data science, microservices, containerization, functional programming, Rust, Haskell, open source software, open street map
 
 ## Education
 
@@ -50,7 +55,7 @@ _Secondary School Diploma, Liceo Scientifico "G.Alessi" Perugia_
 
 ## Other Achivements
 `2022`
-Title to teach STEM subjects in public Italian secondary school _« Abilitazione classi di concorso A027 e A028 »_ 
+Title to teach Maths and Physics in public Italian secondary school _« Abilitazione classi di concorso A027 e A028 »_ 
 
 ## Work experience
 
@@ -58,7 +63,7 @@ Title to teach STEM subjects in public Italian secondary school _« Abilitazione
 __Sopra Steria__, Rome ICT/Consulting
 
 Full stack developer for energy market customers
-- _Terna_: Web application development for the Italian electric power dispatcher, Spring Boot or Node JS Rest BE and Angular FE
+- _Terna_: Design and development of ETL processes and applications for the Italian electricity transmission operator. Focused primarily on managing monthly power plant measurements. Extensive use of the MongoDB Aggregation Framework and Node.js programs to execute ETL workflows.
 
 `03/2011 - 10/2022`
 __Almaviva__, Rome ICT/Consulting
@@ -89,9 +94,11 @@ Autonomy in solving complex problems.
 
 ## Technical skills
 
+- Mongo DB and his Aggregation Framework
+- Node.js (writing and executing async js programs)
 - Linux (Installation, command line, use as personal OS)
 - Git (From bash, Github, Gitlab, Azure devops, merge/pull request)
-- Python (numpy, virtualenv, opencv, flask, pandas)
+- Python (numpy, pandas, virtualenv, opencv, flask)
 - Javascript (Node Js, jQuery, Angular js, Angular, Vue, Open Layers, Vite)
 - Java (8+ with lambda expressions, Spring Boot, Annotations, JPA, maven) 
 - Html (css, bootstrap, single page app) 
@@ -102,7 +109,7 @@ Autonomy in solving complex problems.
 - SQL (Oracle and MySql)
 - C, C++ (used at university)
 
-Not proficient but aware of Mongo Db, Orient Db, Redis, Rust, Haskell.
+Not proficient but aware of Orient Db, Redis, Rust, Haskell.
 
 ## Languages
 
@@ -116,6 +123,6 @@ songwriters, rock and progressive rock, but also jazz and bossa nova
 - Fond of geography, natural sciences, maths, physics... great Wikipedia reader
 - Curious about world places, culture, food and nature
 <!-- ### Footer
-Last updated: December 2022 -->
+Last updated: May 2025 -->
 
 
