@@ -32,7 +32,7 @@ While I recognize the potential of AI tools, I see them as complementary; I pref
 
 ### Specialized in
 
-- Mongo DB and & Aggregation Framework
+- Mongo DB and its Aggregation Framework
 - Javascript in Node.js environmnent
 - Linux, Bash and command line tools 
 - Python
